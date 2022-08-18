@@ -1,4 +1,4 @@
-###Simple Express Server
+## Express Example
 
 The point of this simple express server is to allow front-end developers the ability to quickly serve test data via HTTP to the front-end.
 
@@ -6,7 +6,7 @@ Often writing mock data on the front-end can take up more time than needed. Also
 
 This simple server will allow you to create your HTTP front-end architecture without having to write any "fake" code.
 
-###Installing & Running
+### Installing & Running
 To install and run simply follow these steps:
 
 1)  Clone this repo
